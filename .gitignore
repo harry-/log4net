@@ -1,0 +1,4 @@
+.vs/
+*.exe
+/Console Example/bin/
+/Console Example/obj/

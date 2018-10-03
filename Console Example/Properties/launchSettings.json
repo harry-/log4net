@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Console Example": {
+      "commandName": "Project",
+      "commandLineArgs": "helo helo helo"
+    }
+  }
+}
